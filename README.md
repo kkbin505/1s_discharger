@@ -1,2 +1,2 @@
 # 1s_discharger
- ESP32 based 1s discharger
+ ESP32 1s discharger
